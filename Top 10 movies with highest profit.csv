@@ -1,11 +1,251 @@
 ,director_name,num_critic_for_reviews,actor_2_name,gross,genres,actor_1_name,movie_title,num_voted_users,actor_3_name,num_user_for_reviews,language,budget,title_year,imdb_score,movie_facebook_likes,profit
-0,James Cameron,723.0,Joel David Moore,760505847.0,Action|Adventure|Fantasy|Sci-Fi,CCH Pounder,Avatar ,886204,Wes Studi,3054,English,237000000.0,2009.0,7.9,33000,523505847.0
-29,Colin Trevorrow,644.0,Judy Greer,652177271.0,Action|Adventure|Sci-Fi|Thriller,Bryce Dallas Howard,Jurassic World ,418214,Omar Sy,1290,English,150000000.0,2015.0,7.0,150000,502177271.0
-26,James Cameron,315.0,Kate Winslet,658672302.0,Drama|Romance,Leonardo DiCaprio,Titanic ,793059,Gloria Stuart,2528,English,200000000.0,1997.0,7.7,26000,458672302.0
-3024,George Lucas,282.0,Peter Cushing,460935665.0,Action|Adventure|Fantasy|Sci-Fi,Harrison Ford,Star Wars: Episode IV - A New Hope ,911097,Kenny Baker,1470,English,11000000.0,1977.0,8.7,33000,449935665.0
-3080,Steven Spielberg,215.0,Dee Wallace,434949459.0,Family|Sci-Fi,Henry Thomas,E.T. the Extra-Terrestrial ,281842,Peter Coyote,515,English,10500000.0,1982.0,7.9,34000,424449459.0
-17,Joss Whedon,703.0,Robert Downey Jr.,623279547.0,Action|Adventure|Sci-Fi,Chris Hemsworth,The Avengers ,995415,Scarlett Johansson,1722,English,220000000.0,2012.0,8.1,123000,403279547.0
-509,Roger Allers,186.0,Nathan Lane,422783777.0,Adventure|Animation|Drama|Family|Musical,Matthew Broderick,The Lion King ,644348,Niketa Calame,656,English,45000000.0,1994.0,8.5,17000,377783777.0
-240,George Lucas,320.0,Liam Neeson,474544677.0,Action|Adventure|Fantasy|Sci-Fi,Natalie Portman,Star Wars: Episode I - The Phantom Menace ,534658,Ian McDiarmid,3597,English,115000000.0,1999.0,6.5,13000,359544677.0
+1937,Frank Darabont,199.0,Jeffrey DeMunn,28341469.0,Crime|Drama,Morgan Freeman,The Shawshank Redemption ,1689764,Bob Gunton,4144,English,25000000.0,1994.0,9.3,108000,3341469.0
+3466,Francis Ford Coppola,208.0,Marlon Brando,134821952.0,Crime|Drama,Al Pacino,The Godfather ,1155770,Robert Duvall,2238,English,6000000.0,1972.0,9.2,43000,128821952.0
 66,Christopher Nolan,645.0,Heath Ledger,533316061.0,Action|Crime|Drama|Thriller,Christian Bale,The Dark Knight ,1676169,Morgan Freeman,4667,English,185000000.0,2008.0,9.0,37000,348316061.0
-439,Gary Ross,673.0,Josh Hutcherson,407999255.0,Adventure|Drama|Sci-Fi|Thriller,Jennifer Lawrence,The Hunger Games ,701607,Anthony Reynolds,1959,English,78000000.0,2012.0,7.3,140000,329999255.0
+2837,Francis Ford Coppola,149.0,Al Pacino,57300000.0,Crime|Drama,Robert De Niro,The Godfather: Part II ,790926,Robert Duvall,650,English,13000000.0,1974.0,9.0,14000,44300000.0
+3355,Quentin Tarantino,215.0,Eric Stoltz,107930000.0,Crime|Drama,Bruce Willis,Pulp Fiction ,1324680,Phil LaMarr,2195,English,8000000.0,1994.0,8.9,45000,99930000.0
+4498,Sergio Leone,181.0,Luigi Pistilli,6100000.0,Western,Clint Eastwood,"The Good, the Bad and the Ugly ",503509,Enzo Petito,780,Italian,1200000.0,1966.0,8.9,20000,4900000.0
+339,Peter Jackson,328.0,Billy Boyd,377019252.0,Action|Adventure|Drama|Fantasy,Orlando Bloom,The Lord of the Rings: The Return of the King ,1215718,Bernard Hill,3189,English,94000000.0,2003.0,8.9,16000,283019252.0
+1874,Steven Spielberg,174.0,Embeth Davidtz,96067179.0,Biography|Drama|History,Liam Neeson,Schindler's List ,865020,Caroline Goodall,1273,English,22000000.0,1993.0,8.9,41000,74067179.0
+2051,Irvin Kershner,223.0,Kenny Baker,290158751.0,Action|Adventure|Fantasy|Sci-Fi,Harrison Ford,Star Wars: Episode V - The Empire Strikes Back ,837759,Anthony Daniels,900,English,18000000.0,1980.0,8.8,17000,272158751.0
+270,Peter Jackson,297.0,Orlando Bloom,313837577.0,Action|Adventure|Drama|Fantasy,Christopher Lee,The Lord of the Rings: The Fellowship of the Ring ,1238746,Billy Boyd,5060,English,93000000.0,2001.0,8.8,21000,220837577.0
+683,David Fincher,315.0,Meat Loaf,37023395.0,Drama,Brad Pitt,Fight Club ,1347461,Eugenie Bondurant,2968,English,63000000.0,1999.0,8.8,48000,-25976605.0
+97,Christopher Nolan,642.0,Tom Hardy,292568851.0,Action|Adventure|Sci-Fi|Thriller,Leonardo DiCaprio,Inception ,1468200,Joseph Gordon-Levitt,2803,English,160000000.0,2010.0,8.8,175000,132568851.0
+836,Robert Zemeckis,149.0,Siobhan Fallon Hogan,329691196.0,Comedy|Drama,Tom Hanks,Forrest Gump ,1251222,Sam Anderson,1398,English,55000000.0,1994.0,8.8,59000,274691196.0
+3867,Milos Forman,149.0,Michael Berryman,112000000.0,Drama,Scatman Crothers,One Flew Over the Cuckoo's Nest ,680041,Louise Fletcher,760,English,4400000.0,1975.0,8.7,32000,107600000.0
+4029,Fernando Meirelles,214.0,Seu Jorge,7563397.0,Crime|Drama,Alice Braga,City of God ,533200,Alexandre Rodrigues,749,Portuguese,3300000.0,2002.0,8.7,28000,4263397.0
+3024,George Lucas,282.0,Peter Cushing,460935665.0,Action|Adventure|Fantasy|Sci-Fi,Harrison Ford,Star Wars: Episode IV - A New Hope ,911097,Kenny Baker,1470,English,11000000.0,1977.0,8.7,33000,449935665.0
+654,Lana Wachowski,313.0,Marcus Chong,171383253.0,Action|Sci-Fi,Keanu Reeves,The Matrix ,1217752,Gloria Foster,3646,English,63000000.0,1999.0,8.7,25000,108383253.0
+1903,Martin Scorsese,192.0,Mike Starr,46836394.0,Biography|Crime|Drama,Robert De Niro,Goodfellas ,728685,Paul Sorvino,989,English,25000000.0,1990.0,8.7,25000,21836394.0
+340,Peter Jackson,294.0,Orlando Bloom,340478898.0,Action|Adventure|Drama|Fantasy,Christopher Lee,The Lord of the Rings: The Two Towers ,1100446,Billy Boyd,2417,English,94000000.0,2002.0,8.7,10000,246478898.0
+4747,Akira Kurosawa,153.0,Minoru Chiaki,269061.0,Action|Adventure|Drama,Takashi Shimura,Seven Samurai ,229012,Kamatari Fujiwara,596,Japanese,2000000.0,1954.0,8.7,11000,-1730939.0
+4427,Charles Chaplin,120.0,Stanley Blystone,163245.0,Comedy|Drama|Family,Paulette Goddard,Modern Times ,143086,Fred Malatesta,211,English,1500000.0,1936.0,8.6,0,-1336755.0
+1600,David Fincher,216.0,Brad Pitt,100125340.0,Crime|Drama|Mystery|Thriller,Morgan Freeman,Se7en ,1023511,Reg E. Cathey,1080,English,33000000.0,1995.0,8.6,39000,67125340.0
+96,Christopher Nolan,712.0,Anne Hathaway,187991439.0,Adventure|Drama|Sci-Fi,Matthew McConaughey,Interstellar ,928227,Mackenzie Foy,2725,English,165000000.0,2014.0,8.6,349000,22991439.0
+2373,Hayao Miyazaki,246.0,Ryûnosuke Kamiki,10049886.0,Adventure|Animation|Family|Fantasy,Bunta Sugawara,Spirited Away ,417971,Miyu Irino,902,Japanese,19000000.0,2001.0,8.6,28000,-8950114.0
+648,Steven Spielberg,219.0,Vin Diesel,216119491.0,Action|Drama|War,Tom Hanks,Saving Private Ryan ,881236,Matt Damon,2277,English,70000000.0,1998.0,8.6,22000,146119491.0
+3175,Tony Kaye,162.0,Beverly D'Angelo,6712241.0,Crime|Drama,Ethan Suplee,American History X ,782437,Stacy Keach,1420,English,7500000.0,1998.0,8.6,35000,-787759.0
+3592,Bryan Singer,162.0,Chazz Palminteri,23272306.0,Crime|Drama|Mystery|Thriller,Kevin Spacey,The Usual Suspects ,740918,Kevin Pollak,1182,English,6000000.0,1995.0,8.6,28000,17272306.0
+2158,Jonathan Demme,185.0,Scott Glenn,130727000.0,Crime|Drama|Horror|Thriller,Anthony Hopkins,The Silence of the Lambs ,887467,Anthony Heald,916,English,19000000.0,1991.0,8.6,40000,111727000.0
+4028,Damien Chazelle,535.0,Melissa Benoist,13092000.0,Drama|Music,J.K. Simmons,Whiplash ,399138,Chris Mulkey,731,English,3300000.0,2014.0,8.5,129000,9792000.0
+1233,Christopher Nolan,341.0,Hugh Jackman,53082743.0,Drama|Mystery|Sci-Fi|Thriller,Christian Bale,The Prestige ,844052,Scarlett Johansson,1100,English,40000000.0,2006.0,8.5,49000,13082743.0
+3716,Christopher Nolan,274.0,Thomas Lennon,25530884.0,Mystery|Thriller,Callum Rennie,Memento ,845580,Jorja Fox,2067,English,9000000.0,2000.0,8.5,40000,16530884.0
+283,Ridley Scott,265.0,Connie Nielsen,187670866.0,Action|Drama|Romance,Djimon Hounsou,Gladiator ,982637,Oliver Reed,2368,English,103000000.0,2000.0,8.5,21000,84670866.0
+3,Christopher Nolan,813.0,Christian Bale,448130642.0,Action|Thriller,Tom Hardy,The Dark Knight Rises ,1144337,Joseph Gordon-Levitt,2701,English,250000000.0,2012.0,8.5,164000,198130642.0
+1448,Roman Polanski,193.0,Frank Finlay,32519322.0,Biography|Drama|War,Emilia Fox,The Pianist ,497946,Ed Stoppard,761,English,35000000.0,2002.0,8.5,21000,-2480678.0
+1571,Francis Ford Coppola,261.0,Marlon Brando,78800000.0,Drama|War,Harrison Ford,Apocalypse Now ,450676,Robert Duvall,983,English,31500000.0,1979.0,8.5,19000,47300000.0
+4921,Majid Majidi,46.0,Amir Farrokh Hashemian,925402.0,Drama|Family,Bahare Seddiqi,Children of Heaven ,27882,Mohammad Amir Naji,130,Persian,180000.0,1997.0,8.5,0,745402.0
+288,James Cameron,210.0,Jenette Goldstein,204843350.0,Action|Sci-Fi,Joe Morton,Terminator 2: Judgment Day ,744891,S. Epatha Merkerson,983,English,102000000.0,1991.0,8.5,13000,102843350.0
+712,Frank Darabont,186.0,Jeffrey DeMunn,136801374.0,Crime|Drama|Fantasy|Mystery,Tom Hanks,The Green Mile ,782610,Michael Jeter,1377,English,60000000.0,1999.0,8.5,30000,76801374.0
+3277,Ridley Scott,392.0,Yaphet Kotto,78900000.0,Horror|Sci-Fi,Tom Skerritt,Alien ,563827,Bolaji Badejo,1110,English,11000000.0,1979.0,8.5,23000,67900000.0
+296,Quentin Tarantino,765.0,Christoph Waltz,162804648.0,Drama|Western,Leonardo DiCaprio,Django Unchained ,955174,Ato Essandoh,1193,English,100000000.0,2012.0,8.5,199000,62804648.0
+361,Martin Scorsese,352.0,Matt Damon,132373442.0,Crime|Drama|Thriller,Leonardo DiCaprio,The Departed ,873649,Ray Winstone,2054,English,90000000.0,2006.0,8.5,29000,42373442.0
+2152,Steven Spielberg,234.0,Karen Allen,242374454.0,Action|Adventure,Harrison Ford,Raiders of the Lost Ark ,661017,William Hootkins,771,English,18000000.0,1981.0,8.5,16000,224374454.0
+509,Roger Allers,186.0,Nathan Lane,422783777.0,Adventure|Animation|Drama|Family|Musical,Matthew Broderick,The Lion King ,644348,Niketa Calame,656,English,45000000.0,1994.0,8.5,17000,377783777.0
+4259,Florian Henckel von Donnersmarck,215.0,Ulrich Mühe,11284657.0,Drama|Thriller,Sebastian Koch,The Lives of Others ,259379,Martina Gedeck,407,German,2000000.0,2006.0,8.5,39000,9284657.0
+2363,Robert Zemeckis,198.0,Thomas F. Wilson,210609762.0,Adventure|Comedy|Sci-Fi,Lea Thompson,Back to the Future ,732212,J.J. Cohen,809,English,19000000.0,1985.0,8.5,39000,191609762.0
+2242,Alfred Hitchcock,290.0,Vera Miles,32000000.0,Horror|Mystery|Thriller,Janet Leigh,Psycho ,422432,John Gavin,1040,English,806947.0,1960.0,8.5,18000,31193053.0
+1714,Sergio Leone,111.0,Burt Young,5300000.0,Crime|Drama,Robert De Niro,Once Upon a Time in America ,221000,Treat Williams,495,English,30000000.0,1984.0,8.4,12000,-24700000.0
+58,Andrew Stanton,421.0,Fred Willard,223806889.0,Adventure|Animation|Family|Sci-Fi,John Ratzenberger,WALL·E ,718837,Jeff Garlin,1043,English,180000000.0,2008.0,8.4,16000,43806889.0
+2606,Sam Mendes,176.0,Peter Gallagher,130058047.0,Drama,Kevin Spacey,American Beauty ,822500,Ara Celi,2715,English,15000000.0,1999.0,8.4,22000,115058047.0
+2970,Wolfgang Petersen,96.0,Martin Semmelrogge,11433134.0,Adventure|Drama|Thriller|War,Jürgen Prochnow,Das Boot ,168203,Herbert Grönemeyer,426,German,14000000.0,1981.0,8.4,11000,-2566866.0
+1536,Richard Marquand,197.0,Ian McDiarmid,309125409.0,Action|Adventure|Fantasy|Sci-Fi,Harrison Ford,Star Wars: Episode VI - Return of the Jedi ,681857,Kenny Baker,647,English,32500000.0,1983.0,8.4,14000,276625409.0
+2644,David Lean,181.0,José Ferrer,6000000.0,Adventure|Biography|Drama|History|War,Claude Rains,Lawrence of Arabia ,192775,Jack Hawkins,559,English,15000000.0,1962.0,8.4,11000,-9000000.0
+1298,Jean-Pierre Jeunet,242.0,Jamel Debbouze,33201661.0,Comedy|Romance,Mathieu Kassovitz,Amélie ,534262,Isabelle Nanty,1314,French,77000000.0,2001.0,8.4,39000,-43798339.0
+2323,Hayao Miyazaki,174.0,Jada Pinkett Smith,2298191.0,Adventure|Animation|Fantasy,Minnie Driver,Princess Mononoke ,221552,Billy Crudup,570,Japanese,2400000000.0,1997.0,8.4,11000,-2397701809.0
+2486,James Cameron,250.0,Carrie Henn,85200000.0,Action|Adventure|Sci-Fi,Michael Biehn,Aliens ,488537,Jenette Goldstein,1076,English,18500000.0,1986.0,8.4,18000,66700000.0
+573,Mel Gibson,132.0,Patrick McGoohan,75600000.0,Biography|Drama|History|War,Mhairi Calvey,Braveheart ,736638,James Robinson,1065,English,72000000.0,1995.0,8.4,17000,3600000.0
+4659,Asghar Farhadi,354.0,Leila Hatami,7098492.0,Drama|Mystery,Shahab Hosseini,A Separation ,151812,Peyman Moaadi,264,Persian,500000.0,2011.0,8.4,48000,6598492.0
+4105,Chan-wook Park,305.0,Ji-tae Yu,2181290.0,Drama|Mystery|Thriller,Min-sik Choi,Oldboy ,356181,Hye-jeong Kang,809,Korean,3000000.0,2003.0,8.4,43000,-818710.0
+4496,Quentin Tarantino,173.0,Steve Buscemi,2812029.0,Crime|Drama|Thriller,Quentin Tarantino,Reservoir Dogs ,664719,Chris Penn,931,English,1200000.0,1992.0,8.4,19000,1612029.0
+3849,Darren Aronofsky,234.0,Mark Margolis,3609278.0,Drama,Ellen Burstyn,Requiem for a Dream ,573541,Louise Lasser,1916,English,4500000.0,2000.0,8.4,38000,-890722.0
+3668,George Roy Hill,119.0,Robert Shaw,159600000.0,Comedy|Crime|Drama,Eileen Brennan,The Sting ,175607,Ray Walston,252,English,5500000.0,1973.0,8.3,0,154100000.0
+3079,Stanley Kubrick,285.0,Gary Lockwood,56715371.0,Adventure|Mystery|Sci-Fi,Keir Dullea,2001: A Space Odyssey ,427357,Glenn Beck,1736,English,12000000.0,1968.0,8.3,24000,44715371.0
+3017,Guy Ritchie,151.0,Brad Pitt,30093107.0,Comedy|Crime,Jason Statham,Snatch ,600996,Jason Flemyng,726,English,6000000.0,2000.0,8.3,27000,24093107.0
+4155,Billy Wilder,181.0,Joe E. Brown,25000000.0,Comedy|Music|Romance,Nehemiah Persoff,Some Like It Hot ,175196,George Raft,350,English,2883848.0,1959.0,8.3,10000,22116152.0
+1906,Brian De Palma,147.0,F. Murray Abraham,44700000.0,Crime|Drama,Al Pacino,Scarface ,537442,Mary Elizabeth Mastrantonio,851,English,25000000.0,1983.0,8.3,19000,19700000.0
+2866,Lenny Abrahamson,421.0,Jacob Tremblay,14677654.0,Drama,Joan Allen,Room ,161288,Cas Anvar,351,English,13000000.0,2015.0,8.3,72000,1677654.0
+588,Quentin Tarantino,486.0,Brad Pitt,120523073.0,Adventure|Drama|War,Michael Fassbender,Inglourious Basterds ,885175,Christoph Waltz,1527,English,75000000.0,2009.0,8.3,42000,45523073.0
+2829,Oliver Hirschbiegel,192.0,Bruno Ganz,5501940.0,Biography|Drama|History|War,Thomas Kretschmann,Downfall ,248354,Alexandra Maria Lara,564,German,13500000.0,2004.0,8.3,14000,-7998060.0
+4033,Thomas Vinterberg,349.0,Alexandra Rapaport,610968.0,Drama,Thomas Bo Larsen,The Hunt ,170155,Hana Shuan,249,Danish,3800000.0,2012.0,8.3,60000,-3189032.0
+2760,Clint Eastwood,131.0,Morgan Freeman,101157447.0,Drama|Western,Clint Eastwood,Unforgiven ,277505,Frances Fisher,495,English,14400000.0,1992.0,8.3,10000,86757447.0
+2734,Fritz Lang,260.0,Gustav Fröhlich,26435.0,Drama|Sci-Fi,Brigitte Helm,Metropolis ,111841,Rudolf Klein-Rogge,413,German,6000000.0,1927.0,8.3,12000,-5973565.0
+2223,Michel Gondry,273.0,Kirsten Dunst,34126138.0,Drama|Fantasy|Romance|Sci-Fi,Kate Winslet,Eternal Sunshine of the Spotless Mind ,666937,Tom Wilkinson,1514,English,20000000.0,2004.0,8.3,52000,14126138.0
+120,Christopher Nolan,478.0,Liam Neeson,205343774.0,Action|Adventure,Christian Bale,Batman Begins ,980946,Morgan Freeman,2685,English,150000000.0,2005.0,8.3,15000,55343774.0
+2407,Milos Forman,134.0,F. Murray Abraham,51600000.0,Biography|Drama|History|Music,Jeffrey Jones,Amadeus ,270790,Tom Hulce,549,English,18000000.0,1984.0,8.3,16000,33600000.0
+2425,Martin Scorsese,151.0,Cathy Moriarty,45250.0,Biography|Drama|Sport,Robert De Niro,Raging Bull ,235133,Frank Vincent,494,English,18000000.0,1980.0,8.3,0,-17954750.0
+4795,Terry Gilliam,131.0,Michael Palin,1229197.0,Adventure|Comedy|Fantasy,Eric Idle,Monty Python and the Holy Grail ,382240,Terry Jones,660,English,229575.0,1975.0,8.3,14000,999622.0
+3089,Gus Van Sant,161.0,Matt Damon,138339411.0,Drama,Robin Williams,Good Will Hunting ,604904,Minnie Driver,682,English,10000000.0,1997.0,8.3,31000,128339411.0
+1588,John Lasseter,166.0,John Ratzenberger,191796233.0,Adventure|Animation|Comedy|Family|Fantasy,Tom Hanks,Toy Story ,623757,Jim Varney,391,English,30000000.0,1995.0,8.3,0,161796233.0
+1039,Steven Spielberg,149.0,Julian Glover,197171806.0,Action|Adventure|Fantasy,Harrison Ford,Indiana Jones and the Last Crusade ,515306,Alison Doody,477,English,48000000.0,1989.0,8.3,0,149171806.0
+1416,Curtis Hanson,177.0,Matt McCoy,64604977.0,Crime|Drama|Mystery|Thriller,Kevin Spacey,L.A. Confidential ,414219,Paul Guilfoyle,625,English,35000000.0,1997.0,8.3,11000,29604977.0
+78,Pete Docter,536.0,Mindy Kaling,356454367.0,Adventure|Animation|Comedy|Drama|Family|Fantasy,Amy Poehler,Inside Out ,345198,Phyllis Smith,773,English,175000000.0,2015.0,8.3,118000,181454367.0
+43,Lee Unkrich,453.0,John Ratzenberger,414984497.0,Adventure|Animation|Comedy|Family|Fantasy,Tom Hanks,Toy Story 3 ,544884,Don Rickles,733,English,200000000.0,2010.0,8.3,30000,214984497.0
+67,Pete Docter,408.0,Delroy Lindo,292979556.0,Adventure|Animation|Comedy|Family,John Ratzenberger,Up ,665575,Jess Harnell,704,English,175000000.0,2009.0,8.3,27000,117979556.0
+3970,Victor Fleming,157.0,George Reeves,198655278.0,Drama|History|Romance|War,Hattie McDaniel,Gone with the Wind ,215340,Thomas Mitchell,706,English,3977000.0,1939.0,8.2,16000,194678278.0
+4458,Guy Ritchie,116.0,Jason Flemyng,3650677.0,Comedy|Crime,Jason Statham,"Lock, Stock and Two Smoking Barrels ",414976,Dexter Fletcher,523,English,960000.0,1998.0,8.2,21000,2690677.0
+4000,Juan José Campanella,262.0,Soledad Villamil,20167424.0,Drama|Mystery|Thriller,Ricardo Darín,The Secret in Their Eyes ,131831,Guillermo Francella,231,Spanish,2000000.0,2009.0,8.2,33000,18167424.0
+1359,John Carpenter,297.0,Richard Masur,13782838.0,Horror|Mystery|Sci-Fi,Wilford Brimley,The Thing ,258078,David Clennon,911,English,15000000.0,1982.0,8.2,23000,-1217162.0
+508,Ron Howard,205.0,Austin Pendleton,170708996.0,Biography|Drama,Adam Goldberg,A Beautiful Mind ,610568,Judd Hirsch,1171,English,58000000.0,2001.0,8.2,29000,112708996.0
+2551,Guillermo del Toro,406.0,Maribel Verdú,37623143.0,Drama|Fantasy|War,Ivana Baquero,Pan's Labyrinth ,467234,Sergi López,1083,Spanish,13500000.0,2006.0,8.2,27000,24123143.0
+3550,Denis Villeneuve,226.0,Mélissa Désormeaux-Poulin,6857096.0,Drama|Mystery|War,Lubna Azabal,Incendies ,80429,Ahmad Massad,156,French,6800000.0,2010.0,8.2,37000,57096.0
+2250,Sean Penn,274.0,William Hurt,18352454.0,Adventure|Biography|Drama,Kristen Stewart,Into the Wild ,426359,Hal Holbrook,760,English,15000000.0,2007.0,8.2,76000,3352454.0
+2703,Joel Coen,249.0,Jeff Bridges,17439163.0,Comedy|Crime,Philip Seymour Hoffman,The Big Lebowski ,537419,Steve Buscemi,1028,English,15000000.0,1998.0,8.2,35000,2439163.0
+27,Anthony Russo,516.0,Scarlett Johansson,407197282.0,Action|Adventure|Sci-Fi,Robert Downey Jr.,Captain America: Civil War ,272670,Chris Evans,1022,English,250000000.0,2016.0,8.2,72000,157197282.0
+920,Martin Scorsese,133.0,Don Rickles,42438300.0,Biography|Crime|Drama,Robert De Niro,Casino ,333542,Kevin Pollak,533,English,52000000.0,1995.0,8.2,11000,-9561700.0
+338,Andrew Stanton,301.0,Stephen Root,380838870.0,Adventure|Animation|Comedy|Family,Alexander Gould,Finding Nemo ,692482,Brad Garrett,866,English,94000000.0,2003.0,8.2,11000,286838870.0
+4638,Elia Kazan,134.0,Karl Malden,9600000.0,Crime|Drama|Romance,Marlon Brando,On the Waterfront ,100890,Rod Steiger,281,English,910000.0,1954.0,8.2,0,8690000.0
+308,Martin Scorsese,606.0,Matthew McConaughey,116866727.0,Biography|Comedy|Crime|Drama,Leonardo DiCaprio,The Wolf of Wall Street ,780588,Jon Favreau,1138,English,100000000.0,2013.0,8.2,138000,16866727.0
+960,James McTeigue,525.0,Eddie Marsan,70496802.0,Action|Drama|Thriller,Natalie Portman,V for Vendetta ,791783,Rupert Graves,2042,English,54000000.0,2005.0,8.2,48000,16496802.0
+1978,Gavin O'Connor,317.0,Frank Grillo,13651662.0,Drama|Sport,Tom Hardy,Warrior ,332276,Kevin Dunn,514,English,25000000.0,2011.0,8.2,77000,-11348338.0
+2047,Hayao Miyazaki,212.0,Blythe Danner,4710455.0,Adventure|Animation|Family|Fantasy,Christian Bale,Howl's Moving Castle ,214091,Jean Simmons,330,Japanese,24000000.0,2004.0,8.2,13000,-19289545.0
+93,Dean DeBlois,288.0,America Ferrera,217387997.0,Adventure|Animation|Family|Fantasy,Gerard Butler,How to Train Your Dragon ,485430,Craig Ferguson,492,English,165000000.0,2010.0,8.2,33000,52387997.0
+1754,John McTiernan,233.0,Bruce Willis,81350242.0,Action|Thriller,Alan Rickman,Die Hard ,592582,Reginald VelJohnson,722,English,28000000.0,1988.0,8.2,25000,53350242.0
+1777,Ridley Scott,302.0,Sean Young,27000000.0,Sci-Fi|Thriller,Harrison Ford,Blade Runner ,461609,M. Emmet Walsh,1168,English,28000000.0,1982.0,8.2,34000,-1000000.0
+1869,Clint Eastwood,366.0,Dreama Walker,148085755.0,Drama,Clint Eastwood,Gran Torino ,561773,Ahney Her,871,English,33000000.0,2008.0,8.2,28000,115085755.0
+4066,David Lean,122.0,Sessue Hayakawa,27200000.0,Adventure|Drama|War,William Holden,The Bridge on the River Kwai ,149444,Jack Hawkins,273,English,3000000.0,1957.0,8.2,0,24200000.0
+4050,Danny Boyle,134.0,Shirley Henderson,16501785.0,Drama,Kelly Macdonald,Trainspotting ,469561,Ewen Bremner,514,English,3500000.0,1996.0,8.2,21000,13001785.0
+1911,Paul Thomas Anderson,398.0,Paul F. Tompkins,40218903.0,Drama,Jim Meskimen,There Will Be Blood ,372990,Kevin Breznahan,1107,English,25000000.0,2007.0,8.1,16000,15218903.0
+2480,Terry George,187.0,Sophie Okonedo,23472900.0,Drama|History|War,Don Cheadle,Hotel Rwanda ,264533,Hakeem Kae-Kazim,609,English,17500000.0,2004.0,8.1,12000,5972900.0
+1181,M. Night Shyamalan,234.0,Haley Joel Osment,293501675.0,Drama|Mystery|Thriller,Bruce Willis,The Sixth Sense ,704766,Olivia Williams,2073,English,40000000.0,1999.0,8.1,14000,253501675.0
+183,Paul Greengrass,329.0,Edgar Ramírez,227137090.0,Action|Mystery|Thriller,Matt Damon,The Bourne Ultimatum ,491077,Albert Finney,820,English,110000000.0,2007.0,8.1,0,117137090.0
+1213,Frank Miller,374.0,Powers Boothe,74098862.0,Crime|Thriller,Rosario Dawson,Sin City ,656640,Jason Douglas,1732,English,40000000.0,2005.0,8.1,13000,34098862.0
+1604,Clint Eastwood,268.0,Morgan Freeman,100422786.0,Drama|Sport,Clint Eastwood,Million Dollar Baby ,482064,Mike Colter,1106,English,30000000.0,2004.0,8.1,14000,70422786.0
+179,Alejandro G. Iñárritu,556.0,Tom Hardy,183635922.0,Adventure|Drama|Thriller|Western,Leonardo DiCaprio,The Revenant ,406020,Lukas Haas,1188,English,135000000.0,2015.0,8.1,190000,48635922.0
+1578,Wes Anderson,536.0,Tom Wilkinson,59073773.0,Adventure|Comedy|Crime|Drama,Bill Murray,The Grand Budapest Hotel ,475518,F. Murray Abraham,644,English,25000000.0,2014.0,8.1,149000,34073773.0
+205,Gore Verbinski,271.0,Orlando Bloom,305388685.0,Action|Adventure|Fantasy,Johnny Depp,Pirates of the Caribbean: The Curse of the Black Pearl ,809474,Jack Davenport,2113,English,140000000.0,2003.0,8.1,10000,165388685.0
+812,Tim Miller,579.0,Ed Skrein,363024263.0,Action|Adventure|Comedy|Romance|Sci-Fi,Ryan Reynolds,Deadpool ,479047,Stefan Kapicic,1058,English,58000000.0,2016.0,8.1,117000,305024263.0
+1084,Denis Villeneuve,454.0,Jake Gyllenhaal,60962878.0,Crime|Drama|Mystery|Thriller,Hugh Jackman,Prisoners ,383591,Dylan Minnette,620,English,46000000.0,2013.0,8.1,86000,14962878.0
+2194,Tom McCarthy,474.0,Jamey Sheridan,44988180.0,Biography|Crime|Drama|History,Billy Crudup,Spotlight ,195333,Brian d'Arcy James,409,English,20000000.0,2015.0,8.1,80000,24988180.0
+2174,Steve McQueen,597.0,Scoot McNairy,56667870.0,Biography|Drama|History,Quvenzhané Wallis,12 Years a Slave ,439176,Taran Killam,695,English,20000000.0,2013.0,8.1,83000,36667870.0
+715,David Fincher,568.0,Sela Ward,167735396.0,Crime|Drama|Mystery|Thriller,Patrick Fugit,Gone Girl ,569841,Emily Ratajkowski,1127,English,61000000.0,2014.0,8.1,146000,106735396.0
+452,Martin Scorsese,490.0,Joseph Sikora,127968405.0,Mystery|Thriller,Leonardo DiCaprio,Shutter Island ,786092,Nellie Sciutto,964,English,80000000.0,2010.0,8.1,53000,47968405.0
+855,Quentin Tarantino,354.0,Vivica A. Fox,70098138.0,Action,David Carradine,Kill Bill: Vol. 1 ,735784,Chiaki Kuriyama,2105,English,30000000.0,2003.0,8.1,13000,40098138.0
+719,Peter Weir,213.0,Noah Emmerich,125603360.0,Comedy|Drama|Sci-Fi,Natascha McElhone,The Truman Show ,667983,Peter Krause,877,English,60000000.0,1998.0,8.1,18000,65603360.0
+1875,Tate Taylor,373.0,Bryce Dallas Howard,169705587.0,Drama,Emma Stone,The Help ,318955,Mike Vogel,460,English,25000000.0,2011.0,8.1,75000,144705587.0
+1373,Ron Howard,393.0,Olivia Wilde,26903709.0,Action|Biography|Drama|Sport,Chris Hemsworth,Rush ,312629,Alexandra Maria Lara,475,English,38000000.0,2013.0,8.1,83000,-11096291.0
+1885,Ethan Coen,488.0,Stephen Root,74273505.0,Crime|Drama|Thriller,Kelly Macdonald,No Country for Old Men ,612060,Barry Corbin,1518,English,25000000.0,2007.0,8.1,21000,49273505.0
+238,Pete Docter,250.0,John Ratzenberger,289907418.0,Adventure|Animation|Comedy|Family|Fantasy,Steve Buscemi,"Monsters, Inc. ",585659,James Coburn,593,English,115000000.0,2001.0,8.1,0,174907418.0
+697,Steven Spielberg,308.0,Ariana Richards,356784000.0,Adventure|Sci-Fi|Thriller,Wayne Knight,Jurassic Park ,613473,Bob Peck,895,English,63000000.0,1993.0,8.1,19000,293784000.0
+2614,Morten Tyldum,454.0,Rory Kinnear,91121452.0,Biography|Drama|Thriller|War,Benedict Cumberbatch,The Imitation Game ,467613,Allen Leech,608,English,14000000.0,2014.0,8.1,165000,77121452.0
+3362,Rob Reiner,99.0,Frances Lee McCain,52287414.0,Adventure|Drama,Marshall Bell,Stand by Me ,271794,Casey Siemaszko,584,English,8000000.0,1986.0,8.1,24000,44287414.0
+3854,Richard Kelly,283.0,Mary McDonnell,727883.0,Drama|Sci-Fi|Thriller,Jake Gyllenhaal,Donnie Darko ,580999,James Duval,2110,English,4500000.0,2001.0,8.1,33000,-3772117.0
+2914,Je-kyu Kang,86.0,Bin Won,1110186.0,Action|Drama|War,Min-sik Choi,Tae Guk Gi: The Brotherhood of War ,31943,Dong-gun Jang,224,Korean,12800000.0,2004.0,8.1,0,-11689814.0
+95,James Gunn,653.0,Vin Diesel,333130696.0,Action|Adventure|Sci-Fi,Bradley Cooper,Guardians of the Galaxy ,682155,Djimon Hounsou,1097,English,170000000.0,2014.0,8.1,96000,163130696.0
+3423,Katsuhiro Ôtomo,150.0,Takeshi Kusao,439162.0,Action|Animation|Sci-Fi,Mitsuo Iwata,Akira ,106160,Tesshô Genda,430,Japanese,1100000000.0,1988.0,8.1,0,-1099560838.0
+3553,José Padilha,142.0,Fernanda Machado,8060.0,Action|Crime|Drama|Thriller,Wagner Moura,Elite Squad ,81644,André Ramiro,107,Portuguese,4000000.0,2007.0,8.1,11000,-3991940.0
+3575,James Cameron,204.0,Brian Thompson,38400000.0,Action|Sci-Fi,Michael Biehn,The Terminator ,600266,Paul Winfield,692,English,6500000.0,1984.0,8.1,13000,31900000.0
+3582,Oliver Stone,120.0,Tom Berenger,137963328.0,Drama|War,Johnny Depp,Platoon ,291603,Kevin Dillon,505,English,6000000.0,1986.0,8.1,9000,131963328.0
+3584,George Roy Hill,130.0,Ted Cassidy,102308900.0,Biography|Crime|Drama|Western,Katharine Ross,Butch Cassidy and the Sundance Kid ,152089,Kenneth Mars,309,English,6000000.0,1969.0,8.1,0,96308900.0
+3889,Woody Allen,154.0,Carol Kane,39200000.0,Comedy|Romance,Woody Allen,Annie Hall ,192940,Shelley Duvall,491,English,4000000.0,1977.0,8.1,0,35200000.0
+2755,Harold Ramis,147.0,Chris Elliott,70906973.0,Comedy|Fantasy|Romance,Bill Murray,Groundhog Day ,437418,Willie Garson,609,English,14600000.0,1993.0,8.1,38000,56306973.0
+4157,Victor Fleming,213.0,Terry,22202612.0,Adventure|Family|Fantasy|Musical,Margaret Hamilton,The Wizard of Oz ,291875,Billie Burke,533,English,2800000.0,1939.0,8.1,14000,19402612.0
+4190,Richard Linklater,121.0,Hans Weingartner,5400000.0,Drama|Romance,Hanno Pöschl,Before Sunrise ,183288,Dominik Castell,395,English,2500000.0,1995.0,8.1,22000,2900000.0
+4238,William Wyler,97.0,Teresa Wright,23650000.0,Drama|Romance|War,Myrna Loy,The Best Years of Our Lives ,40359,Dana Andrews,235,English,2100000.0,1946.0,8.1,0,21550000.0
+4267,Alejandro G. Iñárritu,157.0,Jorge Salinas,5383834.0,Drama|Thriller,Adriana Barraza,Amores Perros ,173551,Goya Toledo,361,Spanish,2000000.0,2000.0,8.1,11000,3383834.0
+17,Joss Whedon,703.0,Robert Downey Jr.,623279547.0,Action|Adventure|Sci-Fi,Chris Hemsworth,The Avengers ,995415,Scarlett Johansson,1722,English,220000000.0,2012.0,8.1,123000,403279547.0
+4461,Thomas Vinterberg,98.0,Paprika Steen,1647780.0,Drama,Ulrich Thomsen,The Celebration ,65951,Trine Dyrholm,258,Danish,1300000.0,1998.0,8.1,5000,347780.0
+4530,John G. Avildsen,141.0,Burgess Meredith,117235247.0,Drama|Sport,Sylvester Stallone,Rocky ,375240,Carl Weathers,542,English,960000.0,1976.0,8.1,0,116275247.0
+2830,Alejandro Amenábar,157.0,Lola Dueñas,2086345.0,Biography|Drama|Romance,Belén Rueda,The Sea Inside ,64556,Tamar Novas,140,Spanish,10000000.0,2004.0,8.1,0,-7913655.0
+278,Ridley Scott,568.0,Donald Glover,228430993.0,Adventure|Drama|Sci-Fi,Matt Damon,The Martian ,472488,Benedict Wong,1023,English,108000000.0,2015.0,8.1,153000,120430993.0
+2651,Rob Reiner,185.0,Carol Kane,30857814.0,Adventure|Family|Fantasy|Romance,Robin Wright,The Princess Bride ,294163,André the Giant,718,English,16000000.0,1987.0,8.1,33000,14857814.0
+128,George Miller,739.0,Charlize Theron,153629485.0,Action|Adventure|Sci-Fi|Thriller,Tom Hardy,Mad Max: Fury Road ,552503,Zoë Kravitz,1588,English,150000000.0,2015.0,8.1,191000,3629485.0
+2762,Danny Boyle,418.0,Saurabh Shukla,141319195.0,Drama|Romance,Anil Kapoor,Slumdog Millionaire ,641997,Ayush Mahesh Khedekar,1017,English,15000000.0,2008.0,8.0,13000,126319195.0
+851,Gabriele Muccino,201.0,Kurt Fuller,162586036.0,Biography|Drama,Will Smith,The Pursuit of Happyness ,338383,James Karen,611,English,55000000.0,2006.0,8.0,32000,107586036.0
+858,Quentin Tarantino,304.0,Michael Parks,66207920.0,Action|Crime|Drama|Thriller,Vivica A. Fox,Kill Bill: Vol. 2 ,512749,Michael Bowen,935,English,30000000.0,2004.0,8.0,0,36207920.0
+911,Steven Spielberg,194.0,Tom Hanks,164435221.0,Biography|Crime|Drama,Leonardo DiCaprio,Catch Me If You Can ,525801,Jennifer Garner,667,English,52000000.0,2002.0,8.0,15000,112435221.0
+3741,Edgar Wright,246.0,Dylan Moran,13464388.0,Comedy|Horror,Peter Serafinowicz,Shaun of the Dead ,395921,Rafe Spall,859,English,4000000.0,2004.0,8.0,19000,9464388.0
+3714,Jean-Marc Vallée,471.0,Jennifer Garner,27296514.0,Biography|Drama,Matthew McConaughey,Dallas Buyers Club ,326494,Denis O'Hare,340,English,5000000.0,2013.0,8.0,65000,22296514.0
+1008,Brad Bird,162.0,Harry Connick Jr.,23159305.0,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,Vin Diesel,The Iron Giant ,128455,M. Emmet Walsh,514,English,70000000.0,1999.0,8.0,0,-46840695.0
+1217,Oliver Stone,125.0,Jay O. Sanders,70405498.0,Drama|History|Thriller,Sally Kirkland,JFK ,113472,Cheryl Penland,442,English,40000000.0,1991.0,8.0,0,30405498.0
+2356,Kevin Costner,92.0,Michael Spears,184208848.0,Adventure|Drama|Western,Mary McDonnell,Dances with Wolves ,186485,Maury Chaykin,382,English,22000000.0,1990.0,8.0,0,162208848.0
+1334,Joss Whedon,276.0,Sean Maher,25335935.0,Action|Adventure|Sci-Fi|Thriller,Adam Baldwin,Serenity ,242599,Michael Hitchcock,1594,English,40000000.0,2005.0,8.0,14000,-14664065.0
+2700,Terry Gilliam,230.0,Bob Hoskins,9929000.0,Drama|Sci-Fi,Robert De Niro,Brazil ,152306,Jim Broadbent,513,English,15000000.0,1985.0,8.0,16000,-5071000.0
+3456,Vincent Paronnaud,242.0,Gena Rowlands,4443403.0,Animation|Biography|Drama|War,Catherine Deneuve,Persepolis ,70194,Danielle Darrieux,158,French,7300000.0,2007.0,8.0,14000,-2856597.0
+2712,Martin McDonagh,300.0,Anna Madeley,7757130.0,Comedy|Crime|Drama,Elizabeth Berrington,In Bruges ,307639,Eric Godon,513,English,15000000.0,2008.0,8.0,32000,-7242870.0
+1374,Paul Thomas Anderson,224.0,Neil Flynn,22450975.0,Drama,Patton Oswalt,Magnolia ,241030,Jim Meskimen,1437,English,37000000.0,1999.0,8.0,13000,-14549025.0
+2539,Peter Weir,96.0,Josh Charles,95860116.0,Comedy|Drama,Robin Williams,Dead Poets Society ,277451,Kurtwood Smith,491,English,16400000.0,1989.0,8.0,23000,79460116.0
+223,Ang Lee,552.0,Rafe Spall,124976634.0,Adventure|Drama|Fantasy,Suraj Sharma,Life of Pi ,440084,Tabu,755,English,120000000.0,2012.0,8.0,122000,4976634.0
+47,Bryan Singer,539.0,Peter Dinklage,233914986.0,Action|Adventure|Fantasy|Sci-Fi|Thriller,Jennifer Lawrence,X-Men: Days of Future Past ,514125,Hugh Jackman,752,English,200000000.0,2014.0,8.0,82000,33914986.0
+3821,Billy Bob Thornton,104.0,Dwight Yoakam,24475416.0,Drama,Robert Duvall,Sling Blade ,72443,J.T. Walsh,309,English,890000.0,1996.0,8.0,0,23585416.0
+3344,Karan Johar,210.0,Jimmy Shergill,4018695.0,Adventure|Drama|Thriller,Shah Rukh Khan,My Name Is Khan ,69759,Christopher B. Duncan,235,Hindi,12000000.0,2010.0,8.0,27000,-7981305.0
+3906,Richard Linklater,548.0,Lorelei Linklater,25359200.0,Drama,Ellar Coltrane,Boyhood ,266020,Libby Villari,836,English,4000000.0,2014.0,8.0,92000,21359200.0
+4054,Michael Moore,215.0,Dick Clark,21244913.0,Crime|Documentary|Drama,Michael Moore,Bowling for Columbine ,123090,Bill Clinton,888,English,4000000.0,2002.0,8.0,4000,17244913.0
+4144,Walter Salles,71.0,Matheus Nachtergaele,5595428.0,Drama,Fernanda Montenegro,Central Station ,28951,Othon Bastos,257,Portuguese,2900000.0,1998.0,8.0,0,2695428.0
+4158,Mel Brooks,129.0,Peter Boyle,86300000.0,Comedy,Madeline Kahn,Young Frankenstein ,112671,Teri Garr,315,English,2800000.0,1974.0,8.0,14000,83500000.0
+602,Tim Burton,235.0,Alison Lohman,66257002.0,Adventure|Drama|Fantasy,Steve Buscemi,Big Fish ,350698,Albert Finney,816,English,70000000.0,2003.0,8.0,26000,-3742998.0
+2607,Tom Hooper,479.0,Jennifer Ehle,138795342.0,Biography|Drama|History|Romance,Colin Firth,The King's Speech ,503631,Derek Jacobi,636,English,15000000.0,2010.0,8.0,64000,123795342.0
+4266,Richard Linklater,211.0,Albert Delpy,5792822.0,Drama|Romance,Vernon Dobtcheff,Before Sunset ,168398,Marie Pillet,492,English,2700000.0,2004.0,8.0,13000,3092822.0
+4284,Ari Folman,231.0,Ronny Dayag,2283276.0,Animation|Biography|Documentary|Drama|History|War,Ari Folman,Waltz with Bashir ,46107,Zahava Solomon,156,Hebrew,1500000.0,2008.0,8.0,0,783276.0
+391,Ron Howard,201.0,Bruce McGill,61644321.0,Biography|Drama|Sport,Paddy Considine,Cinderella Man ,148238,Rosemarie DeWitt,529,English,88000000.0,2005.0,8.0,0,-26355679.0
+349,Brad Bird,283.0,Craig T. Nelson,261437578.0,Action|Adventure|Animation|Family,Holly Hunter,The Incredibles ,479166,Lou Romano,815,English,92000000.0,2004.0,8.0,0,169437578.0
+307,Edward Zwick,166.0,Djimon Hounsou,57366262.0,Adventure|Drama|Thriller,Leonardo DiCaprio,Blood Diamond ,400292,Stephen Collins,657,English,100000000.0,2006.0,8.0,14000,-42633738.0
+4897,Sergio Leone,122.0,Gian Maria Volontè,3500000.0,Action|Drama|Western,Clint Eastwood,A Fistful of Dollars ,147566,Aldo Sambrell,235,Italian,200000.0,1964.0,8.0,0,3300000.0
+286,Martin Campbell,400.0,Tobias Menzies,167007184.0,Action|Adventure|Thriller,Eva Green,Casino Royale ,470483,Ivana Milicevic,2301,English,150000000.0,2006.0,8.0,0,17007184.0
+3359,Robert Wise,119.0,Angela Cartwright,163214286.0,Biography|Drama|Family|Musical|Romance,Eleanor Parker,The Sound of Music ,148172,Nicholas Hammond,406,English,8200000.0,1965.0,8.0,15000,155014286.0
+2545,Michel Hazanavicius,576.0,Ed Lauter,44667095.0,Comedy|Drama|Romance,Bérénice Bejo,The Artist ,190030,Beth Grant,583,English,15000000.0,2011.0,8.0,30000,29667095.0
+2917,Steven Spielberg,385.0,Robert Shaw,260000000.0,Adventure|Drama|Thriller,Roy Scheider,Jaws ,412454,Murray Hamilton,962,English,8000000.0,1975.0,8.0,21000,252000000.0
+119,Brad Bird,318.0,John Ratzenberger,206435493.0,Animation|Comedy|Family|Fantasy,Janeane Garofalo,Ratatouille ,473887,Brian Dennehy,626,English,150000000.0,2007.0,8.0,10000,56435493.0
+3179,David Lynch,143.0,Richard Farnsworth,6197866.0,Biography|Drama,Sissy Spacek,The Straight Story ,63733,Everett McGill,414,English,10000000.0,1999.0,8.0,0,-3802134.0
+2884,Stephen Chbosky,364.0,Ezra Miller,17738570.0,Drama|Romance,Logan Lerman,The Perks of Being a Wallflower ,351274,Kate Walsh,457,English,13000000.0,2012.0,8.0,131000,4738570.0
+2907,Lars von Trier,177.0,Udo Kier,4157491.0,Crime|Drama|Musical,Catherine Deneuve,Dancer in the Dark ,79330,Björk,690,English,12800000.0,2000.0,8.0,0,-8642509.0
+2723,David Lynch,252.0,Robert Forster,7219578.0,Drama|Mystery|Thriller,Naomi Watts,Mulholland Drive ,235992,Laura Harring,1768,English,15000000.0,2001.0,8.0,16000,-7780422.0
+1868,Barry Levinson,100.0,Valeria Golino,172825435.0,Drama,Tom Cruise,Rain Man ,383784,Beth Grant,331,English,25000000.0,1988.0,8.0,12000,147825435.0
+3026,David Lean,89.0,Klaus Kinski,111722000.0,Drama|Romance|War,Julie Christie,Doctor Zhivago ,55816,Geraldine Chaplin,255,English,11000000.0,1965.0,8.0,7000,100722000.0
+2916,William Friedkin,304.0,Linda Blair,204565000.0,Horror,Ellen Burstyn,The Exorcist ,284252,Lee J. Cobb,1058,English,8000000.0,1973.0,8.0,18000,196565000.0
+3287,Michael Moore,263.0,Tucker Albrizzi,24530513.0,Documentary|Drama,Michael Moore,Sicko ,66610,Bill Clinton,429,English,9000000.0,2007.0,8.0,0,15530513.0
+1747,Ron Clements,124.0,Frank Welker,217350219.0,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,Robin Williams,Aladdin ,260939,Scott Weinger,244,English,28000000.0,1992.0,8.0,0,189350219.0
+2835,Darren Aronofsky,669.0,Mila Kunis,106952327.0,Drama|Thriller,Natalie Portman,Black Swan ,551363,Mark Margolis,1140,English,13000000.0,2010.0,8.0,106000,93952327.0
+2944,Martin Campbell,400.0,Tobias Menzies,167007184.0,Action|Adventure|Thriller,Eva Green,Casino Royale ,470501,Ivana Milicevic,2301,English,150000000.0,2006.0,8.0,0,17007184.0
+160,J.J. Abrams,518.0,Leonard Nimoy,257704099.0,Action|Adventure|Sci-Fi,Chris Hemsworth,Star Trek ,504419,Bruce Greenwood,1559,English,150000000.0,2009.0,8.0,19000,107704099.0
+2058,Spike Jonze,574.0,Brian Johnson,25556065.0,Drama|Romance|Sci-Fi,Scarlett Johansson,Her ,355126,Matt Letscher,748,English,23000000.0,2013.0,8.0,148000,2556065.0
+3280,Norman Jewison,66.0,Paul Michael Glaser,50000000.0,Drama|Family|Musical|Romance,Topol,Fiddler on the Roof ,29839,Rosalind Harris,150,English,9000000.0,1971.0,8.0,0,41000000.0
+1603,Clint Eastwood,229.0,Spencer Treat Clark,90135191.0,Crime|Drama|Mystery|Thriller,John Doman,Mystic River ,338415,Tom Guiry,935,English,25000000.0,2003.0,8.0,12000,65135191.0
+1601,Neill Blomkamp,472.0,Jed Brophy,115646235.0,Action|Sci-Fi|Thriller,Sharlto Copley,District 9 ,531737,Jason Cope,1262,English,30000000.0,2009.0,8.0,22000,85646235.0
+2898,Tony Scott,122.0,Gary Oldman,12281500.0,Action|Crime|Drama|Romance|Thriller,Brad Pitt,True Romance ,163492,Michael Rapaport,460,English,13000000.0,1993.0,8.0,15000,-718500.0
+525,Alfonso Cuarón,372.0,Danny Huston,35286428.0,Drama|Sci-Fi|Thriller,Charlie Hunnam,Children of Men ,361767,Rita Davies,1206,English,76000000.0,2006.0,7.9,17000,-40713572.0
+639,Michael Mann,209.0,Rip Torn,28965197.0,Biography|Drama|Thriller,Al Pacino,The Insider ,133526,Debi Mazar,521,English,68000000.0,1999.0,7.9,0,-39034803.0
+2418,Edward Zwick,60.0,Morgan Freeman,26830000.0,Drama|History|War,Denzel Washington,Glory ,101889,Matthew Broderick,365,English,18000000.0,1989.0,7.9,0,8830000.0
+2449,Tim Burton,148.0,Bill Murray,5887457.0,Biography|Comedy|Drama,Johnny Depp,Ed Wood ,142416,Martin Landau,420,English,18000000.0,1994.0,7.9,0,-12112543.0
+3357,Dan Gilroy,534.0,Michael Papajohn,32279955.0,Crime|Drama|Thriller,Jake Gyllenhaal,Nightcrawler ,293304,James Huang,552,English,8500000.0,2014.0,7.9,65000,23779955.0
+2605,Ang Lee,287.0,Pei-Pei Cheng,128067808.0,Action|Drama|Romance,Chen Chang,"Crouching Tiger, Hidden Dragon ",217740,Sihung Lung,1641,Mandarin,15000000.0,2000.0,7.9,0,113067808.0
+4082,Richard Linklater,405.0,Ariane Labed,8114507.0,Drama|Romance,Seamus Davey-Fitzpatrick,Before Midnight ,95362,Athina Rachel Tsangari,270,English,3000000.0,2013.0,7.9,62000,5114507.0
+4415,Fabián Bielinsky,94.0,Gastón Pauls,1221261.0,Crime|Drama|Thriller,Ricardo Darín,Nine Queens ,38215,Leticia Brédice,125,Spanish,1500000.0,2000.0,7.9,0,-278739.0
+353,John Lasseter,191.0,John Ratzenberger,245823397.0,Adventure|Animation|Comedy|Family|Fantasy,Tom Hanks,Toy Story 2 ,385871,Wayne Knight,515,English,90000000.0,1999.0,7.9,0,155823397.0
+2863,Clint Eastwood,251.0,Kazunari Ninomiya,13753931.0,Drama|History|War,Yuki Matsuzaki,Letters from Iwo Jima ,132149,Shidô Nakamura,316,Japanese,19000000.0,2006.0,7.9,5000,-5246069.0
+2558,Edgar Wright,285.0,Joe Cornish,23618786.0,Action|Comedy|Mystery,Bill Bailey,Hot Fuzz ,352695,Billie Whitelaw,687,English,8000000.0,2007.0,7.9,17000,15618786.0
+2487,George Cukor,82.0,Rex Harrison,72000000.0,Drama|Family|Musical|Romance,Jeremy Brett,My Fair Lady ,66959,Theodore Bikel,258,English,17000000.0,1964.0,7.9,0,55000000.0
+2492,John Carpenter,318.0,Donald Pleasence,47000000.0,Horror|Thriller,Jamie Lee Curtis,Halloween ,157857,P.J. Soles,1191,English,300000.0,1978.0,7.9,12000,46700000.0
+4640,Cristian Mungiu,233.0,Vlad Ivanov,1185783.0,Drama,Anamaria Marinca,"4 Months, 3 Weeks and 2 Days ",44763,Alexandru Potocean,172,Romanian,590000.0,2007.0,7.9,14000,595783.0
+4821,John Carpenter,318.0,Donald Pleasence,47000000.0,Horror|Thriller,Jamie Lee Curtis,Halloween ,157863,P.J. Soles,1191,English,300000.0,1978.0,7.9,12000,46700000.0
+4931,John Carney,232.0,Markéta Irglová,9437933.0,Drama|Music|Romance,Glen Hansard,Once ,90827,Darren Healy,329,English,180000.0,2007.0,7.9,26000,9257933.0
+1993,Roger Donaldson,126.0,Antony Starr,5128124.0,Biography|Drama|Sport,Anthony Hopkins,The World's Fastest Indian ,44198,Craig Hall,251,English,25000000.0,2005.0,7.9,11000,-19871876.0
+716,Doug Liman,249.0,Josh Hamilton,121468960.0,Action|Mystery|Thriller,Matt Damon,The Bourne Identity ,407601,Nicky Naudé,849,English,60000000.0,2002.0,7.9,0,61468960.0
+1884,Brian De Palma,123.0,Billy Drago,76270454.0,Crime|Drama|Thriller,Robert De Niro,The Untouchables ,219008,Charles Martin Smith,418,English,25000000.0,1987.0,7.9,0,51270454.0
+3680,Spike Lee,103.0,John Savage,27545445.0,Drama,Ruby Dee,Do the Right Thing ,59524,Danny Aiello,418,English,6500000.0,1989.0,7.9,0,21045445.0
+3361,Jonathan Dayton,270.0,Steven Christopher Parker,59889948.0,Comedy|Drama,Steve Carell,Little Miss Sunshine ,355810,Jill Talley,889,English,8000000.0,2006.0,7.9,15000,51889948.0
+1606,Nick Cassavetes,177.0,Kevin Connolly,64286.0,Drama|Romance,Ryan Gosling,The Notebook ,396396,Gena Rowlands,1111,English,29000000.0,2004.0,7.9,57000,-28935714.0
+1713,Edward Zwick,60.0,Morgan Freeman,26830000.0,Drama|History|War,Denzel Washington,Glory ,101888,Matthew Broderick,365,English,18000000.0,1989.0,7.9,0,8830000.0
+3264,Michael Haneke,447.0,Emmanuelle Riva,225377.0,Drama|Romance,Isabelle Huppert,Amour ,70382,Jean-Louis Trintignant,190,French,8900000.0,2012.0,7.9,33000,-8674623.0
+2667,Paul Thomas Anderson,153.0,Nicole Ari Parker,26384919.0,Drama,Don Cheadle,Boogie Nights ,189032,Nina Hartley,560,English,15000000.0,1997.0,7.9,0,11384919.0
+1735,James Mangold,291.0,Dallas Roberts,119518352.0,Biography|Drama|Music|Romance,Sandra Ellis Lafferty,Walk the Line ,188637,Tyler Hilton,815,English,28000000.0,2005.0,7.9,11000,91518352.0
+2666,James Ivory,58.0,Peter Vaughan,22954968.0,Drama|Romance,Anthony Hopkins,The Remains of the Day ,45703,Ben Chaplin,156,English,11500000.0,1993.0,7.9,0,11454968.0
+2177,Tim Burton,111.0,Dianne Wiest,56362352.0,Fantasy|Romance,Johnny Depp,Edward Scissorhands ,357581,Conchata Ferrell,588,English,20000000.0,1990.0,7.9,16000,36362352.0
+1171,Yimou Zhang,283.0,Tony Chiu Wai Leung,84961.0,Action|Adventure|History,Jet Li,Hero ,149414,Maggie Cheung,841,Mandarin,31000000.0,2002.0,7.9,0,-30915039.0
+3677,Christophe Barratier,112.0,François Berléand,3629758.0,Drama|Music,Jean-Baptiste Maunier,The Chorus ,44151,Gérard Jugnot,110,French,5500000.0,2004.0,7.9,0,-1870242.0
+1748,F. Gary Gray,349.0,Neil Brown Jr.,161029270.0,Biography|Crime|Drama|History|Music,Aldis Hodge,Straight Outta Compton ,119928,R. Marcos Taylor,331,English,28000000.0,2015.0,7.9,76000,133029270.0
+706,Quentin Tarantino,596.0,Jennifer Jason Leigh,54116191.0,Crime|Drama|Mystery|Thriller|Western,Craig Stark,The Hateful Eight ,272839,Zoë Bell,1018,English,44000000.0,2015.0,7.9,114000,10116191.0
+3193,Paul Haggis,287.0,Loretta Devine,54557348.0,Crime|Drama|Thriller,Don Cheadle,Crash ,361169,Jennifer Esposito,1624,English,6500000.0,2004.0,7.9,18000,48057348.0
+927,Andrew Adamson,212.0,Chris Miller,267652016.0,Adventure|Animation|Comedy|Family|Fantasy,Kathleen Freeman,Shrek ,467113,Bobby Block,945,English,60000000.0,2001.0,7.9,0,207652016.0
+3080,Steven Spielberg,215.0,Dee Wallace,434949459.0,Family|Sci-Fi,Henry Thomas,E.T. the Extra-Terrestrial ,281842,Peter Coyote,515,English,10500000.0,1982.0,7.9,34000,424449459.0
+1807,John Landis,125.0,Aretha Franklin,54200000.0,Action|Comedy|Crime|Music,John Belushi,The Blues Brothers ,142448,Ray Charles,319,English,27000000.0,1980.0,7.9,14000,27200000.0
+3768,Duncan Jones,415.0,Matt Berry,5009677.0,Drama|Mystery|Sci-Fi,Kevin Spacey,Moon ,260607,Benedict Wong,485,English,5000000.0,2009.0,7.9,47000,9677.0
+3029,David O. Russell,410.0,Jack McGee,93571803.0,Biography|Drama|Sport,Christian Bale,The Fighter ,275869,Melissa McMeekin,389,English,25000000.0,2010.0,7.9,36000,68571803.0
+1813,Philip Kaufman,80.0,Scott Glenn,21500000.0,Adventure|Drama|History,Dennis Quaid,The Right Stuff ,45271,Sam Shepard,170,English,27000000.0,1983.0,7.9,0,-5500000.0
+845,Paul Greengrass,491.0,Chris Mulkey,107100855.0,Biography|Drama|Thriller,Tom Hanks,Captain Phillips ,323353,Michael Chernus,527,English,55000000.0,2013.0,7.9,65000,52100855.0
+788,Cameron Crowe,149.0,Zooey Deschanel,32522352.0,Adventure|Comedy|Drama|Music,Philip Seymour Hoffman,Almost Famous ,207287,Michael Angarano,822,English,60000000.0,2000.0,7.9,15000,-27477648.0
+1871,Pierre Morel,309.0,Holly Valance,145000989.0,Action|Thriller,Liam Neeson,Taken ,483756,Xander Berkeley,974,English,25000000.0,2008.0,7.9,29000,120000989.0
+3595,Darren Aronofsky,391.0,John D'Leo,26236603.0,Drama|Sport,Mark Margolis,The Wrestler ,251349,Ajay Naidu,547,English,6000000.0,2008.0,7.9,10000,20236603.0
+0,James Cameron,723.0,Joel David Moore,760505847.0,Action|Adventure|Fantasy|Sci-Fi,CCH Pounder,Avatar ,886204,Wes Studi,3054,English,237000000.0,2009.0,7.9,33000,523505847.0
+89,Don Hall,384.0,Daniel Henney,222487711.0,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,Damon Wayans Jr.,Big Hero 6 ,279093,Abraham Benrubi,433,English,165000000.0,2014.0,7.9,41000,57487711.0
+69,Jon Favreau,486.0,Jeff Bridges,318298180.0,Action|Adventure|Sci-Fi,Robert Downey Jr.,Iron Man ,696338,Jon Favreau,1055,English,140000000.0,2008.0,7.9,10000,178298180.0
